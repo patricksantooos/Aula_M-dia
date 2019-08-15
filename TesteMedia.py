@@ -8,3 +8,10 @@ def calculaMedia():
     media = sum(lista)/3
 
 
+
+print("bruno")
+
+
+## modificado por bruno ##
+
+
